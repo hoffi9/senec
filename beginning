@@ -1,0 +1,12 @@
+collection of ideas of requirements for the usage of a raspi together with a home pv with a Sencec Home V3 Hybrid Duo
+
+- temperature monitoring and warning
+- warning via Mail
+- warning via phone call
+- show current overhang of pv output
+
+
+ideas for realisation
+- usage of https://github.com/Hobbyflyer/senec_monitoring?fbclid=IwAR0M8O4uSQU_D8rc3BlnNGvXKUCEnsg35lNrw3gdwCu6ia0L5uuLQLbgMEM
+- usage of https://gist.github.com/smashnet/82ad0b9d7f0ba2e5098e6649ba08f88a
+- 
